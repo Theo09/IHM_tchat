@@ -1,0 +1,85 @@
+.mess {
+    //width: 13%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    //margin-left: 100%;
+    right:1%;
+    position: fixed;
+
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    height: 7%;
+}
+p{
+  color : white;
+}
+.sender1{
+  right: 5%;
+  position : fixed;
+  color : white;
+}
+
+.back2{
+  //overflow-y: scroll;
+  //flex-grow: 1;
+  //padding: 20px;
+  //width : 50%;
+  //height: 500px;
+}
+.back{
+
+
+
+
+}
+.list{
+  width : 45%;
+  height: 10%;
+
+}
+.messagebody {
+
+  display: inline-block;
+    width: auto;
+  padding: 10px;
+  background-color:  #4CAF50;
+  border: 1px;
+  border-style: solid;
+  border-color: white;
+  border-radius: 5px;
+  padding-right: 15px;
+  color : white;
+}
+.messagebody3 {
+
+
+  display: inline-block;
+    width: auto;
+  padding: 10px;
+  background-color:  #6B8E23;
+  border: 1px;
+  border-style: solid;
+  border-color: white;
+  border-radius: 5px;
+  padding-right: 15px;
+  color : white;
+}
+.messagebody2 {
+
+  display: inline-block;
+    width: auto;
+  padding: 10px;
+  background-color:  #BDB76B;
+  border: 1px;
+  border-style: solid;
+  border-color: white;
+  border-radius: 5px;
+  padding-right: 15px;
+  color : white;
+  position:relative;
+    left: 140%;
+
+
+}

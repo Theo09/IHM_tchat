@@ -1,0 +1,51 @@
+.mess {
+    //width: 13%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    //margin-left: 100%;
+    right:1%;
+    position: fixed;
+
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    height: 7%;
+}
+p{
+  color : white;
+}
+.sender{
+  right:5%;
+  position: fixed;
+}
+
+.back{
+//  overflow-y: scroll;
+//  overflow-x: hidden;
+//  flex-grow: 1;
+//  padding: 20px;
+}
+
+.messagebody {
+  //max-width: 80%;
+  //display: inline-block;
+  width: 40%;
+  padding: 10px;
+  background-color:  #4CAF50;
+  border: 1px;
+  border-radius: 5px;
+  padding-right: 50px;
+  color : white;
+}
+.messagebody2 {
+  //max-width: 80%;
+  //display: inline-block;
+  width: 40%;
+  padding: 10px;
+  background-color:  #BDB76B;
+  border: 1px;
+  border-radius: 5px;
+  padding-right: 50px;
+  color : white;
+}
